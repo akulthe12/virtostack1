@@ -1,0 +1,108 @@
+.card {
+    margin: 50px auto;
+    max-width: 600px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 5px;
+    overflow: auto;
+}
+
+.card-title {
+    color: #6f42c1;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form {
+    margin: 0 auto;
+    max-width: 500px;
+}
+btn btn-success
+{
+    width: 20%;
+}
+
+button {
+    display: block;
+    margin-top: 20px;
+    margin: 20px auto 0;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    color: #ffffff;
+    background-color: #b5a8ce;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100%;
+}
+.btn-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+input[type="text"],
+select {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f1f1f1;
+    font-size: 16px;
+    color: #495057;
+}
+
+input[type="text"]:focus,
+select:focus {
+    outline: none;
+    box-shadow: 0px 0px 5px #6f42c1;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #6f42c1;
+    border-radius: 5px;
+}
+.nav
+{
+    background-color: #6f42c1;
+}
+
+  
+  
+  .modal-body {
+    padding: 1rem;
+  }
+  .navbar {
+    background-color: #f8f9fa; 
+    padding: 10px; 
+  }
+  
+  .navbar h1 {
+    font-size: 28px; 
+    margin: 0;
+  }
+  
+  .navbar button {
+    margin-left: auto; 
+  }
+  .avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+  .error-message {
+    color: red;
+  }
+  

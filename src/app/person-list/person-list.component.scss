@@ -1,0 +1,42 @@
+.container {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #FAFAFA;
+  }
+
+  .avatar {
+    border-radius: 50%;
+    width: 64px;
+    height: 72px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+
+  h4 {
+    margin: 0;
+    font-size: 20px;
+    color: #333;
+  }
+
+  p {
+    margin: 5px 0;
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .edit-delete-icons {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+
+  .edit-delete-icons button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+  }

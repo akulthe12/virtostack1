@@ -1,0 +1,20 @@
+{
+  "personData": [
+    {
+      "id": 2,
+      "name": "w5f",
+      "email": "rr@gmail.com",
+      "dob": "3",
+      "country": "r",
+      "avatar": "assets/image1.png"
+    },
+    {
+      "id": 3,
+      "name": "kk",
+      "email": "kk",
+      "dob": "20",
+      "country": "india",
+      "avatar": "male"
+    }
+  ]
+}
